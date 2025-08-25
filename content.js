@@ -70,7 +70,7 @@ function injectButton() {
                 },
                 body: JSON.stringify({
                     emailContent: emailContent,
-                    tone: "abusive"
+                    tone: "Professional yet friendly"
                 })
             });
 
