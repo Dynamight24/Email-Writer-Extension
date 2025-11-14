@@ -2,8 +2,6 @@ console.log("Email Writer Extension - Content Script Loaded");
 
 // ========== BUTTON CREATION ==========
 // Function to create and style the AI reply button with a dropdown.
-// Function to create and style the AI reply button with a dropdown.
-// Function to create and style the AI reply button with a dropdown.
 function createAIButton() {
     // Inject a specific CSS rule to fix styling
     function injectStyles() {
